@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>gates_img</folder>
+	<filename>gateimg-01721.png</filename>
+	<path>E:\Testfootage\gates_img\gateimg-01721.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1183</xmin>
+			<ymin>284</ymin>
+			<xmax>1661</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+</annotation>
